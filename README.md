@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jinsuhong/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jinsuhong.knight@gmail.com)
 
-My name is Jinsu Hong. I am a PhD student who study machine learning and space weather forecasting. 
+My name is Jinsu Hong. I am a Computer Science PhD student who study machine learning and space weather forecasting. My goal is to make reliable warning systems for strong space weather events. 
 
 
 ## My Tech Stack
