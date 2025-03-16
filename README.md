@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<h2> My tech stack 📚 </h2>
+![python](https://img.shields.io/badge/python-darkgrey?style=for-the-badge&logo=python&logoColor=rgb&logoSize=auto)
+
+
 <!--
 **JinsuHongg/JinsuHongg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
