@@ -4,6 +4,9 @@
 
 My name is Jinsu Hong. I am a data scientist conducting research on machine learning and space weather forecasting. My goal is to develop reliable warning systems for severe space weather events.
 
+👨‍🎓 Ph.D. Student at Georgia State University  
+📌 Research Interests: Machine Learning | Space Weather Forecasting  
+💡 "Slowly and steadily, shaping what’s to come."  
 
 ## My Tech Stack
 
