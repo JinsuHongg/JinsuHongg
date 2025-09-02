@@ -19,6 +19,9 @@ My name is Jinsu Hong. I am a data scientist conducting research on machine lear
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PyTorch-Lightning](	https://img.shields.io/badge/Lightning-792DE4?style=for-the-badge&logo=lightning&logoColor=white)
+![Dask](https://img.shields.io/badge/Dask-FFCC00?style=for-the-badge&logo=dask&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-283677?style=for-the-badge)
 
 <!--
 **JinsuHongg/JinsuHongg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
