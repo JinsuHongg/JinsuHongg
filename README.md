@@ -17,17 +17,6 @@ My research bridges **artificial intelligence** and **heliophysics** to build re
 
 ---
 
-## 📚 Recent Publications
-
-- **Uncertainty-Aware Solar Flare Regression** (IEEE ICDMW 2025) — Reliability-aware forecasting with calibrated predictive uncertainty
-- **An Innovative Solar Flare Metadata Collection for Space Weather Analytics** (ICMLA 2023) — Improved metadata design for ML workflows
-- **Enhancing Solar Flare Prediction with Innovative Data-Driven Labels** (CogMI 2023) — Label construction for improved fidelity
-- **Beyond Traditional Flare Forecasting: A Data-driven Labeling Approach** (DaWaK 2023) — Data-driven labeling for realistic performance
-
-👉 **[View all publications and research details](https://jinsuhongg.github.io/)**
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages & Core Libraries**  
@@ -49,14 +38,6 @@ My research bridges **artificial intelligence** and **heliophysics** to build re
 **Visualization & Tools**  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📖 Education
-
-**Ph.D. in Computer Science** — Georgia State University (Aug 2023 – Present)  
-**M.S. in Data Science and Analytics** — Georgia State University (Aug 2021 – May 2023)  
-**B.E. in Advanced Material Science and Engineering** — Sungkyunkwan University (Mar 2010 – Jan 2017)
 
 ---
 
