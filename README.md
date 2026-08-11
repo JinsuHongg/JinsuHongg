@@ -1,19 +1,21 @@
 # Jinsu Hong
 
-**Computational Heliophysicist | Machine Learning Researcher | Space Weather Forecasting**
+**Computer Science Ph.D. Student | Machine Learning Researcher**
 
-Welcome to my GitHub! I'm a Ph.D. student in Computer Science at Georgia State University, focused on developing trustworthy AI systems for solar flare prediction and space weather forecasting.
+Welcome to my GitHub! I'm a Ph.D. student in Computer Science at Georgia State University. I develop reliable machine-learning methods for complex, high-stakes problems, with applications including space weather forecasting.
 
 ---
 
 ## 🔬 Research Focus
 
-My research bridges **artificial intelligence** and **heliophysics** to build reliable forecasting systems for severe space weather events. Key areas include:
+I am interested in building reliable and broadly useful machine-learning systems. My research focuses on:
 
-- **Solar Flare Forecasting** — Machine learning models for predicting solar events across active-region and full-disk settings
-- **Uncertainty Quantification** — Conformal prediction and calibrated uncertainty for high-stakes scientific decision-making
-- **Computer Vision for Heliophysics** — Imagery analysis, segmentation, and representation learning on solar observations
-- **Foundation Models for Space Weather** — Scalable learned representations and transfer learning across multimodal scientific datasets
+- **Uncertainty Quantification** — Conformal prediction, calibration, and reliable decision-making under uncertainty
+- **Foundation Models** — Representation learning, adaptation, and evaluation of foundation models for scientific data
+- **Imbalanced Learning** — Learning and evaluation methods for rare, consequential events
+- **Computer Vision** — Image analysis, segmentation, and visual representation learning
+
+My publications apply these ideas to scientific machine learning and space weather, including solar flare prediction, data-driven labels, and heliophysics foundation models. See my [Google Scholar](https://scholar.google.com/citations?user=_sb6QZMAAAAJ&hl=en) profile for the full publication record and my [website](https://jinsuhongg.github.io/) for current projects.
 
 ---
 
@@ -55,6 +57,6 @@ My research bridges **artificial intelligence** and **heliophysics** to build re
 
 > "Slowly and steadily, shaping what's to come."
 
-I believe in building trustworthy, interpretable AI systems that support credible decision-making in high-stakes domains. My work emphasizes rigorous evaluation, uncertainty quantification, and scientific rigor in machine learning for heliophysics.
+I believe in building trustworthy, interpretable AI systems that support credible decision-making in high-stakes domains. My work emphasizes rigorous evaluation, uncertainty quantification, and robust learning.
 
 ---
