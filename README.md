@@ -1,62 +1,45 @@
 # Jinsu Hong
 
-**Computer Science Ph.D. Student | Machine Learning Researcher**
+**Computer Science Ph.D. Candidate · Georgia State University**
 
-Welcome to my GitHub! I'm a Ph.D. student in Computer Science at Georgia State University. I develop reliable machine-learning methods for complex, high-stakes problems, with applications including space weather forecasting.
+I study uncertainty quantification for reliable machine learning, with applications to complex scientific data. My work brings together conformal prediction, foundation models, and rare-event learning, using heliophysics and space weather as demanding settings for evaluating these methods.
 
----
+[Website](https://jinsuhongg.github.io/) · [CV](https://jinsuhongg.github.io/cv/) · [Google Scholar](https://scholar.google.com/citations?user=_sb6QZMAAAAJ&hl=en) · [Email](mailto:jinsuhong.knight@gmail.com)
 
-## 🔬 Research Focus
+## Selected Research & Code
 
-I am interested in building reliable and broadly useful machine-learning systems. My research focuses on:
+### Uncertainty-Aware Solar Flare Regression
 
-- **Uncertainty Quantification** — Conformal prediction, calibration, and reliable decision-making under uncertainty
-- **Foundation Models** — Representation learning, adaptation, and evaluation of foundation models for scientific data
-- **Imbalanced Learning** — Learning and evaluation methods for rare, consequential events
-- **Computer Vision** — Image analysis, segmentation, and visual representation learning
+Predicting solar flare intensity from full-disk magnetograms with prediction intervals. This work compares conformal prediction, quantile regression, and conformalized quantile regression to study the trade-off between empirical coverage and interval length.
 
-My publications apply these ideas to scientific machine learning and space weather, including solar flare prediction, data-driven labels, and heliophysics foundation models. See my [Google Scholar](https://scholar.google.com/citations?user=_sb6QZMAAAAJ&hl=en) profile for the full publication record and my [website](https://jinsuhongg.github.io/) for current projects.
+**My contribution:** Led model development, experimental analysis, and manuscript preparation.
 
----
+*IEEE ICDM Workshops, 2025* · [Paper](https://ieeexplore.ieee.org/abstract/document/11415454/) · [Code](https://github.com/JinsuHongg/flare_reg_cp)
 
-## 🛠️ Tech Stack
+### SDOFMv2: A Multi-Instrument Foundation Model
 
-**Languages & Core Libraries**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+Learning solar representations through self-supervised pretraining on observations from the Solar Dynamics Observatory. The project evaluates transfer to missing-channel reconstruction, F10.7 regression, and solar-wind classification.
 
-**Data Science & ML**  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch-Lightning](https://img.shields.io/badge/Lightning-792DE4?style=for-the-badge&logo=lightning&logoColor=white)
+**My contribution:** Built and organized the project repository, trained the models, and consolidated the experimental results.
 
-**Data Processing & Orchestration**  
-![Dask](https://img.shields.io/badge/Dask-FFCC00?style=for-the-badge&logo=dask&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-283677?style=for-the-badge)
+*Solar Physics, 2026* · [Paper](https://doi.org/10.1007/s11207-026-02740-z) · [Code](https://github.com/Joaggi/sdofmv2)
 
-**Visualization & Tools**  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+More publications and research details are available on my [website](https://jinsuhongg.github.io/#publications) and [Google Scholar](https://scholar.google.com/citations?user=_sb6QZMAAAAJ&hl=en).
 
----
+## Research Interests
 
-## 🔗 Connect With Me
+- **Uncertainty quantification:** Conformal prediction, calibration, and informative prediction intervals.
+- **Representation learning:** Foundation models and transfer learning for scientific imagery.
+- **Rare-event learning:** Imbalanced and ordinal prediction, data-driven labels, and evaluation for consequential events.
 
-[![Personal Website](https://img.shields.io/badge/Website-jinsuhongg.github.io-blue?style=for-the-badge&logo=globe&logoColor=white)](https://jinsuhongg.github.io/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=_sb6QZMAAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jinsuhong/)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jinsuhong.knight@gmail.com)
+## Tools
 
----
+- **Languages:** Python, C++
+- **Machine learning:** PyTorch, PyTorch Lightning, scikit-learn
+- **Data & experiments:** NumPy, pandas, Dask, Hydra, Matplotlib, Docker
 
-## 💡 Philosophy
+## Connect
 
-> "Slowly and steadily, shaping what's to come."
+I welcome conversations about uncertainty quantification, scientific machine learning, and research collaborations.
 
-I believe in building trustworthy, interpretable AI systems that support credible decision-making in high-stakes domains. My work emphasizes rigorous evaluation, uncertainty quantification, and robust learning.
-
----
+[Email](mailto:jinsuhong.knight@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jinsuhong/) · [ORCID](https://orcid.org/0009-0002-4383-1376)
