@@ -6,8 +6,6 @@ I study uncertainty quantification for reliable machine learning, with applicati
 
 For publications, projects, and more details, visit [jinsuhongg.github.io](https://jinsuhongg.github.io/).
 
-[CV](https://jinsuhongg.github.io/cv/) · [Google Scholar](https://scholar.google.com/citations?user=_sb6QZMAAAAJ&hl=en)
-
 ## Research Interests
 
 - **Uncertainty quantification:** Conformal prediction, calibration, and informative prediction intervals.
@@ -19,9 +17,3 @@ For publications, projects, and more details, visit [jinsuhongg.github.io](https
 - **Languages:** Python, C++
 - **Machine learning:** PyTorch, PyTorch Lightning, scikit-learn
 - **Data & experiments:** NumPy, pandas, Dask, Hydra, Matplotlib, Docker
-
-## Connect
-
-I welcome conversations about uncertainty quantification, scientific machine learning, and research collaborations.
-
-[Email](mailto:jinsuhong.knight@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jinsuhong/) · [ORCID](https://orcid.org/0009-0002-4383-1376)
